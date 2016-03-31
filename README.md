@@ -34,3 +34,7 @@ The source code in **locks.ino** needs to be adapted for your specific use case 
  
 ## Coming Soon
 We are working on a 3D model of a box which will have exact mounting points for all the components. The results will be shared here and you will be able to 3D print it on your own.
+
+## Donations
+Development is funded through bitcoin donations:
+https://blockchain.info/address/1BHPGY7Rb9WaBBkYPKjZTnKYRzt5mC8NPM
