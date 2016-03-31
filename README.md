@@ -31,3 +31,6 @@ The source code in **locks.ino** needs to be adapted for your specific use case 
 - Update the SHA1 fingerprint from your server's certificate
 - Provide random strings for SALT1 and SALT2 as an additional layer of UID security during transport and storage on the server
 - The `check_auth` function needs to be updated with the exact formatting of API requests required by your server and the appropriate success response
+ 
+## Coming Soon
+We are working on a 3D model of a box which will have exact mounting points for all the components. The results will be shared here and you will be able to 3D print it on your own.
